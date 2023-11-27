@@ -1,0 +1,99 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+    color: white;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+    background-color: #40E0D0;
+    
+}
+
+
+
+
+.button {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 350px;
+}
+
+.yes-button {
+    height: 40px;
+}
+
+.restart{
+    height:40px;
+}
+.figurine {
+    font-family: 'Coiny', cursive;
+    display:none;
+}
+
+
+.hide {
+    font-family: 'Coiny', cursive;
+    display:none;
+}
+
+.hair {
+    font-family: 'Coiny', cursive;
+    display:none;
+}
+
+.yay {
+    font-family: 'Coiny', cursive;
+    display:none;
+}
+
+img {
+    height: 300px;
+}
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+
+
+.mikuu{
+    padding:0px;
+    margin:0px;
+    height:100px;
+}
+
+
+.fake-noodle1{
+    z-index:2;
+    position:relative;
+}
+.fake-noodle2{
+    z-index:2;
+    position:relative;
+}
+.fake-noodle3{
+    z-index:2;
+    position:relative;
+}
+
+.mikuu {
+  position: absolute; 
+  z-index: 1;	
+  top: 50%;
+  left:40%;
+}
+
+.bad{
+    display:none;
+}
